@@ -2,11 +2,11 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/hydejack-dev/assets/icons/tile-small.png"/>
-      <square150x150logo src="/hydejack-dev/assets/icons/tile-medium.png"/>
-      <wide310x150logo src="/hydejack-dev/assets/icons/tile-wide.png"/>
-      <square310x310logo src="/hydejack-dev/assets/icons/tile-large.png"/>
-      <TileColor>rgb(79,177,186)</TileColor>
+      <square70x70logo src="/hydejack/assets/icons/tile-small.png"/>
+      <square150x150logo src="/hydejack/assets/icons/tile-medium.png"/>
+      <wide310x150logo src="/hydejack/assets/icons/tile-wide.png"/>
+      <square310x310logo src="/hydejack/assets/icons/tile-large.png"/>
+      <TileColor>#4fb1ba</TileColor>
     </tile>
   </msapplication>
 </browserconfig>
