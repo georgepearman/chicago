@@ -62,9 +62,8 @@ copyright:             © 2018. All rights reserved.
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-pagination:
-  enabled: true
-  sort_reverse: false
+paginate:              5
+paginate_path:         /page-:num/
 
 
 # Customizaton
@@ -185,7 +184,7 @@ plugins:
   - jekyll-feed
   # - jekyll-gist
   # - jekyll-optional-front-matter
-  - jekyll-paginate-v2
+  - jekyll-paginate
   # - jekyll-readme-index
   # - jekyll-redirect-from
   - jekyll-relative-links

@@ -29,8 +29,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
-    jekyll-paginate-v2 (1.9.4)
-      jekyll (~> 3.0)
+    jekyll-paginate (1.1.0)
     jekyll-relative-links (0.5.3)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
@@ -69,11 +68,11 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
-  jekyll-paginate-v2
+  jekyll-paginate
   jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
 
 BUNDLED WITH
-   1.16.2
+   1.16.1
