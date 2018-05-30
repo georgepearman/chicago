@@ -35,7 +35,11 @@ security around 12:30 PM.  Kenny has a priority pass so we were able to enter
 [The Club](https://www.yelp.com/biz/the-club-at-sjc-san-jose) for free!  While
 there we enjoyed a buffet and unlimited drinks.
 
+![Selfie at the airport]({% include smart-url url='/assets/img/may23/kenny/IMG_2423.jpg' %})
+
 ---
+
+![Kenny and Bach take a selfie on the plane]({% include smart-url url='/assets/img/may23/kenny/IMG_2427.jpg' %})
 
 On the plane we decided to keep drinking, and started with some wine tasting.
 
@@ -80,7 +84,11 @@ The view outside our window was not too great during the flight.
 
 ![View out the airplane window]({% include smart-url url='/assets/img/may23/george/IMG_0475.jpg' %})
 
-- TODO: Mantas the baby 
+As we were leaving the plane, Bach mentioned that a baby looks like
+[Mantis](https://en.wikipedia.org/wiki/Mantis_(Marvel_Comics)).  The father
+overheard him and said "yeah, I wish she had super powers."
+
+![Baby Mantis]({% include smart-url url='/assets/img/may23/kenny/IMG_2429.jpg' %})
 
 ---
 
