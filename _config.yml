@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   http://georgepearman.com/
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -15,29 +15,26 @@ url:                   https://domain.tld
 # When using GitHub Pages, set to '' when hosting a user- or organization page,
 # i.e. when the name of the repository looks like <username>.github.io.
 # Otherwise, set to /<name of repository> (with leading /, but without the < >).
-baseurl:               ''
+baseurl:               '/chicago'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Chicago Trip
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  Bach, George, Kenny, Ramya, and Scott visit Chicago for Paul's wedding.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  Bach, George, Kenny, Ramya, and Scott visit Chicago for Paul's wedding.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [chicago, wedding]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -45,13 +42,13 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                George Pearman
+  email:               georgepearman@me.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -74,7 +71,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          '#4fb1ba'
+accent_color:          '#697E9A'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
@@ -91,7 +88,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:  UA-64532803-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
