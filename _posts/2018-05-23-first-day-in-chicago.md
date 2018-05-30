@@ -29,9 +29,17 @@ tags: []
 ---
 
 - Went to an airport lounge
+![Wine tasting on the plane]({% include smart-url url='/assets/img/may23/IMG_0465.jpg' %})
 - Ramya got a free wine on the plane 
 - Ramya won a bet about using the first class bathroom
+![George takes a selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0467.jpg' %})
+![George takes another selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0468.jpg' %})
+![Bach takes a selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0470.jpg' %})
+![Row 27 on the plane]({% include smart-url url='/assets/img/may23/IMG_0471.jpg' %})
+![More drinks on the plane]({% include smart-url url='/assets/img/may23/IMG_0472.jpg' %})
+![View out the airplane window]({% include smart-url url='/assets/img/may23/IMG_0475.jpg' %})
 - Little bad wolf
+![Food at little bad wolf]({% include smart-url url='/assets/img/may23/IMG_0477.jpg' %})
 - Pickup alcohol but two were closed because it was past 12. Cvs was open 
 - Mantas the baby 
 - Brick exposed walls 
