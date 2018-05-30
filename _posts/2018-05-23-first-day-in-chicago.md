@@ -8,7 +8,7 @@ title: First Day in Chicago
 # (Optional) Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
+  We fly to Chicago
 
 # (Optional) Link to an image that represents your blog post.
 # The aspect ratio should be ~16:9.
@@ -28,8 +28,11 @@ tags: []
 # check out `_featured_categories` and `_featured_tags` respectively.
 ---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-There should be whitespace between paragraphs.
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+- Went to an airport lounge
+- Ramya got a free wine on the plane 
+- Ramya won a bet about using the first class bathroom
+- Little bad wolf
+- Pickup alcohol but two were closed because it was past 12. Cvs was open 
+- Mantas the baby 
+- Brick exposed walls 
+- Noise complaint 2 hours later 
