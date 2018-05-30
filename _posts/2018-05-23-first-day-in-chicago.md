@@ -39,7 +39,7 @@ there we enjoyed a buffet and unlimited drinks.
 
 On the plane we decided to keep drinking, and started with some wine tasting.
 
-![Wine tasting on the plane]({% include smart-url url='/assets/img/may23/IMG_0465.jpg' %})
+![Wine tasting on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0465.jpg' %})
 
 The flight attendant collected our trash, but Ramya wanted her bottle because
 it was so cute.  Kenny talked to the flight attendant and was able to get the
@@ -56,29 +56,29 @@ the special bathroom Kenny would buy her a drink (and vice-versa).  Ramya won,
 but Kenny never paid up.
 
 Here is Ramya's free wine from the flight attendent and our next round:
-![More drinks on the plane]({% include smart-url url='/assets/img/may23/IMG_0472.jpg' %})
+![More drinks on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0472.jpg' %})
 
 ---
 
 Feeling very jolly, we decided it was time for a photoshoot.  First, here is
 row 27 (left to right: George, Ramya, Kenny, Bach):
 
-![George takes a selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0467.jpg' %})
-![George takes another selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0468.jpg' %})
+![George takes a selfie on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0467.jpg' %})
+![George takes another selfie on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0468.jpg' %})
 
 We dared Bach to take a selfie from a greater distance and he happily obliged.
 Kenny could not stop laughing in these photos because he was looking at the
 phone screen as Bach took the photo and found the lady in front of him very
 entertaining.
 
-![Bach takes a selfie on the plane]({% include smart-url url='/assets/img/may23/IMG_0470.jpg' %})
-![Row 27 on the plane]({% include smart-url url='/assets/img/may23/IMG_0471.jpg' %})
+![Bach takes a selfie on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0470.jpg' %})
+![Row 27 on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0471.jpg' %})
 
 ---
 
 The view outside our window was not too great during the flight.
 
-![View out the airplane window]({% include smart-url url='/assets/img/may23/IMG_0475.jpg' %})
+![View out the airplane window]({% include smart-url url='/assets/img/may23/george/IMG_0475.jpg' %})
 
 - TODO: Mantas the baby 
 
@@ -93,7 +93,7 @@ After dropping our bags, we Ubered to a restaurant called
 a burger, which was delicious (you can also see Bach's chicken and mashed
 potatoes in the background).
 
-![Food at little bad wolf]({% include smart-url url='/assets/img/may23/IMG_0477.jpg' %})
+![Food at little bad wolf]({% include smart-url url='/assets/img/may23/george/IMG_0477.jpg' %})
 
 ---
 
