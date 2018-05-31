@@ -33,6 +33,7 @@ tags: []
 - Wrigley field
 - Signature lounge
 - Korean tacos 
+- Bach got called batch
 - Standup show sucked 
 - Uber with all the lights 
 - Kareoke and dice
