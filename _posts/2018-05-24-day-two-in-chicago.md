@@ -72,7 +72,9 @@ craving nutella for the rest of the trip.
 
 We purchased sunscreen at a nearby CVS and continued north to the [Chicago
 River](https://en.wikipedia.org/wiki/Chicago_River).  We more or less walked
-towards [Trump Tower](https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago)) from the breakfast place.
+towards [Trump
+Tower](https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago))
+from the breakfast place.
 
 It was a hot sunny day and the water in the Chicago River looked extremely
 inviting.  Once we were close to the river, we noticed that we could go down
@@ -94,7 +96,7 @@ There were lots of boats out.
 ![]({% include smart-url url='/assets/img/may24/george/IMG_0493.jpg' %})
 ![]({% include smart-url url='/assets/img/may24/george/IMG_0497.jpg' %})
 ![]({% include smart-url url='/assets/img/may24/george/IMG_0502.jpg' %})
-![]({% include smart-url url='/assets/img/may24/george/IMG_0503.jpg' %})
+![Corn on the cob building]({% include smart-url url='/assets/img/may24/george/IMG_0503.jpg' %})
 
 ---
 
@@ -104,15 +106,6 @@ Along the way we saw a [Vietnam Veterans Memorial](https://en.wikipedia.org/wiki
 
 ![Vietnam Veterans Memorial]({% include smart-url url='/assets/img/may24/george/IMG_0506.jpg' %})
 
-
-- Shake shack and got some dogs 
-- Mushroom burger burst 
-- Tiki bar three dots and a dash
-- Drink on fire heavily persuaded against 
-- Smoke video
-- Bach’s love tiki and boomies 
-- Bach almost got us kicked out for falling asleep 
-- Went home and Ramya rage caged after bragging all night 
 - Bach did 10 push-ups despite all odds 
 
 ---
@@ -131,23 +124,66 @@ the shot.
 ---
 
 Next stop was right downstairs, at [Shake
-Shack](https://en.wikipedia.org/wiki/Shake_Shack).
+Shack](https://en.wikipedia.org/wiki/Shake_Shack).  I ordered the ShackBurger
+(cheeseburge) and fries.  It was pretty good, but I think I prefer In-n-Out
+like a true Californian should.  Bach and Kenny got [Chicago
+hotdogs](https://en.wikipedia.org/wiki/Chicago-style_hot_dog) and liked them so
+much that they ordered a 3rd to share.  Ramya got a mushroom burger and was
+very pleased that it "popped" as she ate it.  Scott tried the SmokeShack.
 
 ---
 
-![River at night]({% include smart-url url='/assets/img/may24/george/IMG_0516.jpg' %})
+Next we headed to [Three Dots and
+a Dash](https://www.yelp.com/biz/three-dots-and-a-dash-chicago), a tiki bar
+recommended to us by many people.  Bach was very unhappy to go to a tiki bar
+and tried to distract us with alternative destinations for most of the walk.
+
+![River at night]({% include smart-url
+url='/assets/img/may24/george/IMG_0516.jpg' %})
+
+Kenny grabbed a woman walking by in what seemed to be a hurry to ask for
+a photo.  She was very happy to take it.  Later we heard that all Chicagans are
+nice when the weather is nice (so a couple weeks a year).
+
 ![Us by the river at night]({% include smart-url url='/assets/img/may24/kenny/IMG_2456.jpg' %})
+
+We also found some statues that needed to be photographed.
+
 ![Standing with some statues]({% include smart-url url='/assets/img/may24/ramya/20180524_222036.jpg' %})
+
+Along our walk we saw a bar playing the last 5 minutes of the Warriors
+/ Rockets game 5.  The last minute the Warriors were behind 2-3 points so it
+was quite exciting to watch with a crowd.
 
 ---
 
 ![Inside Three Dots and a Dash]({% include smart-url url='/assets/img/may24/george/IMG_0517.jpg' %})
+
+We tried to order something called the "head hunter" which comes with fire on
+top of it.  However, the waitress persuaded us to buy a bigger, more expensive
+drink called the "bali bali," which comes with smoke and is more theatrical.
+Its a big drink meant to be shared.
+
 ![Shared drink with dry ice]({% include smart-url url='/assets/img/may24/george/IMG_0519.jpg' %})
+
+Bach admitted that he was actually having a great time at the tiki bar.
+I think he is used to undercommitted tiki bars, whereas this tiki bar had
+really good production quality.  Also, Bach liked that he could take a "boomie"
+of the smoke drink.  Apparently that's what Canadians call boomerangs.  Despite
+all that, Bach couldn't keep his eyes open.  In fact, a waiter came over to ask 
+if Bach was okay.
+
 ![Bach fell asleep]({% include smart-url url='/assets/img/may24/george/IMG_0523.jpg' %})
+
+Next we ordered individual drinks.  I got the "three dots and a dash", the
+drink for which the bar is named.  It comes with some fruit (which was the best
+part).
+
 ![Three Dots and a Dash drink]({% include smart-url url='/assets/img/may24/george/IMG_0524.jpg' %})
 ![Cheers!]({% include smart-url url='/assets/img/may24/george/IMG_0525.jpg' %})
 
 ---
 
 Later at the Airbnb we played some drinking games.  One of was Ramya's
-favorite (before this night): rage cage.
+favorite (before this night): rage cage.   Bach was able to do 10 pushups to
+our surprise.
