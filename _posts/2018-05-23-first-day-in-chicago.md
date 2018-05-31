@@ -60,6 +60,7 @@ the special bathroom Kenny would buy her a drink (and vice-versa).  Ramya won,
 but Kenny never paid up.
 
 Here is Ramya's free wine from the flight attendent and our next round:
+
 ![More drinks on the plane]({% include smart-url url='/assets/img/may23/george/IMG_0472.jpg' %})
 
 ---
