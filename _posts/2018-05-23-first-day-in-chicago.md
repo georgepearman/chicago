@@ -119,6 +119,8 @@ supposedly open.  During their Uber trip they saw a 24 hour CVS, so hopped out t
 buy alcohol there.
 
 Back at the Airbnb I went to sleep because I was exhausted.  The other four
-stayed up to hang out.  Two hours later I woke up and they were still up, so
-I joined them for some card games.  Around 4 AM we decided to sleep, and Ramya
+stayed up to hang out.  Two hours later I woke up and they were still awake, so
+I joined them for some card games.  Scott had turned on the heater to roast us
+because he had just visited Southeast Asia, and was feeling cold relative to
+the climate there.  Around 4 AM we decided to sleep, and Ramya
 noticed that she got a noise complaint 2 hours earlier.
