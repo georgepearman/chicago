@@ -32,16 +32,16 @@ After a late night the day before, we decided to sleep in.  In the morning we
 watched [Friends](https://en.wikipedia.org/wiki/Friends) and Scott made
 delicious omelettes with the ingredients we had bought a few days before.
 
-![Omelette made by Scott]({% include smart-url url='/assets/img/may25/george/IMG_0527.jpg' %})
+![Omelete made by Scott]({% include smart-url url='/assets/img/may25/george/IMG_0527.jpg' %})
 
-We walked to Southport train station and took a train into the City.
+We walked to Southport train station and took a train into the city.
 
 ![Inside the train]({% include smart-url url='/assets/img/may25/george/IMG_0528.jpg' %})
 
 ---
 
 Our first destination was the [Cloud
-Gate](https://en.wikipedia.org/wiki/Cloud_Gate) ("bean").
+Gate](https://en.wikipedia.org/wiki/Cloud_Gate) ("the bean").
 
 ![Bean Panorama]({% include smart-url url='/assets/img/may25/george/IMG_0529.jpg' %})
 ![George Bach Kenny Reflection on Bean]({% include smart-url url='/assets/img/may25/george/IMG_0531.jpg' %})
@@ -68,10 +68,11 @@ Kenny asked someone for our photo with the bean.
 ![Group and the Bean Attempt 1]({% include smart-url url='/assets/img/may25/kenny/IMG_2475.jpg' %})
 
 However, he was not very pleased that the photo did not include the entire
-bean.  So we walked around to the other side of the bean (to avoid our
-photographer).  Kenny asked a couple if they'd like a photo.  As he took it he
-said, "I will try to get the entire bean in the shot."  After he took the photo
-he asked if they would take one of us (very sly of him).
+bean.  So, we walked around to the other side of the bean (to avoid our
+previous photographer).  Kenny asked a couple if they'd like a photo.  As he
+took it he said, "I will try to get the entire bean in the shot."  After he
+took the photo he asked if they would take one of us (very sly of him to hint
+at instructions like this).
 
 ![Group and the Bean Attempt 2]({% include smart-url url='/assets/img/may25/kenny/IMG_2478.jpg' %})
 
@@ -79,7 +80,7 @@ he asked if they would take one of us (very sly of him).
 
 After that, we walked around a bit, trying to recreate the photo that Paul and
 Britta used on their wedding invitation.  We knew we were in the right general
-area based on the buildings in the background of their invitation.  First, we
+area based on the buildings in the background of the photo.  First, we
 walked on a bridge that goes over [Millenium
 Park](https://en.wikipedia.org/wiki/Millennium_Park) (park that contains the
 bean), thinking it might give us a good overall view of the park and help us
@@ -91,7 +92,7 @@ Bach had an injured leg, so he was often last as we walked.
 
 ![Bach is last]({% include smart-url url='/assets/img/may25/kenny/IMG_2480.jpg' %})
 
-Turns out that bridge went nowhere, so we headed backwards on the bridge.
+Turns out that bridge went nowhere, so, we headed backwards on the bridge.
 
 ![Walking backwards on the bride]({% include smart-url url='/assets/img/may25/kenny/IMG_2482.jpg' %})
 ![Kenny takes a selfie as we walk back]({% include smart-url url='/assets/img/may25/kenny/IMG_2487.jpg' %})
@@ -114,8 +115,8 @@ fruit and Nutella crepes while there.  Mine had strawberries in it.
 ![Strawberry and Nutella Crepe]({% include smart-url url='/assets/img/may25/george/IMG_0554.jpg' %})
 
 Right next door was [Stan's
-Donuts](https://www.yelp.com/biz/stans-donuts-and-coffee-chicago-16).  So we
-sheepishly walked 1 business over to enter another dessert store (yes we bought
+Donuts](https://www.yelp.com/biz/stans-donuts-and-coffee-chicago-16).  So, we
+sheepishly walked 1 business over to enter another dessert store (yes, we bought
 another snack).
 
 ![Stan's]({% include smart-url url='/assets/img/may25/george/IMG_0549.jpg' %})
@@ -132,19 +133,19 @@ drink very much of them.
 
 ---
 
-We took our drinks to go and wandered north towards the riverwalk, hoping to
+We took our drinks to go and wandered north towards the Riverwalk, hoping to
 find bikes.  All around this area you can see [Trump
 Tower](https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago)).
 It's not a bad looking building in my opinion.
 
 ![Trump tower]({% include smart-url url='/assets/img/may25/george/IMG_0558.jpg' %})
 
-Along the riverwalk I saw a sign for big gears, but no one else was interested
+Along the Riverwalk I saw a sign for big gears, but no one else was interested
 in seeing them.
 
 ![Big gears]({% include smart-url url='/assets/img/may25/george/IMG_0557.jpg' %})
 
-The riverwalk was very active with people walking and enjoying the sun.
+The Riverwalk was very active with people walking and enjoying the sun.
 
 ![Scott and Ramya Walking]({% include smart-url url='/assets/img/may25/george/IMG_0559.jpg' %})
 
@@ -158,8 +159,8 @@ much rent might be in Chicago.  Turns out it's cheaper than the Bay Area!
 
 ![Sitting by the river panorama]({% include smart-url url='/assets/img/may25/george/IMG_0560.jpg' %})
 
-We could see the end of the river where it meets [Lake
-Michigan](https://en.wikipedia.org/wiki/Lake_Michigan) and saw [Navy
+We could see the end of the river (where it meets [Lake
+Michigan](https://en.wikipedia.org/wiki/Lake_Michigan)) and saw [Navy
 Pier](https://en.wikipedia.org/wiki/Navy_Pier) in the distance.  It looked fun,
 so we headed in that direction.
 
@@ -168,29 +169,29 @@ so we headed in that direction.
 ---
 
 As we approached the pier, we found a bike rental place!  We wanted to ride
-with 5 people on a 4 person bike, but the saleman would not let us.  Instead,
-he gave us a free single bike during that time that we would be renting the
-4 person bike.  We took turns on the single person bike - Kenny took the first
+with 5 people on a 4-person bike, but the salemans would not let us.  Instead,
+he gave us a free single bike during the time that we would be renting the
+quad bike.  We took turns on the single person bike - Kenny took the first
 shift.
 
 ![Us on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2496.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2497.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2502.jpg' %})
+![Us on the quad bike again]({% include smart-url url='/assets/img/may25/kenny/IMG_2497.jpg' %})
+![Our backs while on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2502.jpg' %})
 ![Selfie on the bike]({% include smart-url url='/assets/img/may25/george/IMG_0565.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2523.jpg' %})
+![Arms up on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2523.jpg' %})
 
 I got the drive the bike!  My friends were not too happy when I started filming
 while steering.
 
-<video style="max-width: 100%" controls loop autoplay muted>
+<video style="width: 100%" controls loop autoplay muted>
   <source src="{% include smart-url url='/assets/img/may25/george/IMG_0567.mp4' %}">
 </video>
 
-We rode past this spot, which turns out to be the location where Paul proposed
-to Britta!
+We rode past a spot that arched along the lake, which turns out to be the
+location where Paul proposed to Britta!
 
-![Paul's proposal spot]({% include smart-url url='/assets/img/may25/george/IMG_0568.jpg' %})
 ![Riding past Paul's proposal spot]({% include smart-url url='/assets/img/may25/kenny/IMG_2508.jpg' %})
+![Paul's proposal spot]({% include smart-url url='/assets/img/may25/george/IMG_0568.jpg' %})
 
 The view was very nice when riding by the lake.
 
@@ -215,85 +216,102 @@ especially with the Bach dead weight.
 ![Quad bike passing me]({% include smart-url url='/assets/img/may25/george/IMG_0583.jpg' %})
 
 Along the bike ride we saw a hot dog stand.  I went to buy two dogs to share
-while the rest had a photo shoot.
+while the rest had a photo shoot.  The Chicago-style hot dogs were not bad, but
+I forgot to take a photo of them.
 
 ![View where we stopped]({% include smart-url url='/assets/img/may25/george/IMG_0584.jpg' %})
 
+![Ramya Bach and Scott pose on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2531.jpg' %})
+![Ramya Bach and Scott laugh on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2534.jpg' %})
 
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2531.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2534.jpg' %})
-
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2537.jpg' %})
+![George and Kenny pose on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2537.jpg' %})
 
 On our way back we saw [Buckingham
 Fountain](https://en.wikipedia.org/wiki/Buckingham_Fountain) (no queen in sight
 though).
 
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2556.jpg' %})
+![Buckingham Fountain]({% include smart-url url='/assets/img/may25/kenny/IMG_2556.jpg' %})
 
 One last photo on our bike before we had to give it back.
 
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2616.jpg' %})
-
-- Ramya got butt hurt
-- Dogs 
+![Everyone on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2616.jpg' %})
 
 ---
 
-- Went to get water and played bs for an hour with popcorn
+After the bike ride it was a short (5 minutes or so) walk to Navy Pier.  Once
+there we went to find some drinking water, and got some at a McDonald's inside
+a food court.  We ended up sitting at a table playing
+[Cheat](https://en.wikipedia.org/wiki/Cheat_(game)) for about an hour.  While
+playing we snacked on some Chicago popcorn from
+[Garrett](https://www.garrettpopcorn.com/).
 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0589.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0591.jpg' %})
+![Popcorn from Garrett]({% include smart-url url='/assets/img/may25/george/IMG_0589.jpg' %})
+
+In addition to fair rides (we didn't go on any), there is an indoor garden with
+water fountains on the pier.
+
+![Garden on the pier]({% include smart-url url='/assets/img/may25/george/IMG_0591.jpg' %})
 
 ---
 
-- Thai food opart 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0592.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0593.jpg' %})
+Dinner was at a Thai restaurant called
+[Opart](https://www.yelp.com/biz/opart-thai-house-chicago?osq=opart) and was
+quite delicious.  We were all surprised that the restaurant was BYOB and didn't
+sell beer.  After eating here we noticed that a lot of places are like this in
+Chicago, something we are not used to in the Bay Area.
+
+Unfortunately, I forgot to take a photo of my plate until after I had started
+eating.
+
+![Thai food]({% include smart-url url='/assets/img/may25/george/IMG_0593.jpg' %})
 
 ---
 
-After dinner we headed back to the Airbnb for an hour to shower and change.
 The next destination was a speakeasy called [The Violet
 Hour](https://www.yelp.com/biz/the-violet-hour-chicago) and we wanted to look
-fresh.
+fresh. So, after dinner we headed back to the Airbnb for an hour to shower and
+change.  While there Ramya was asking for a band aid because she hurt her leg
+while riding the bike.  We interpreted this as she hurt her butt and wouldn't
+let her forget it.
 
-While waiting in line for the bar, we strange shirtless man approached us.  He
-was doing "pushups" every 5 minutes or so.  When he approached our group he was
-singing some song he made up about an "asian man."  It was unclear whether he
-was talking to Bach, Kenny, or Scott.
+While waiting in line for the bar, a strange shirtless man approached us.  He
+was doing "pushups" every 5 minutes or so.  When he approached our group, he
+was singing some song he was making up about an "asian man."  It was unclear
+whether he was talking to Bach, Kenny, or Scott.
 
 He moved on to interrupt the next group in line instead and sang to someone he
-called "the girl with the nice butt."  Once he left we became friends with
+called "the girl with the nice ass."  Once he left we became friends with
 everyone in line when we talked about how strange that guy was.
 
 In the bar there are strict house rules.  One of them is no cell phones out, so
 we don't have any pictures inside.
 
 We passed the time playing [King's
-Cup](https://en.wikipedia.org/wiki/Kings_(game)) without the playing cards.
-One of us got to be "question master."  We also all rotated names and if you
-messed it up you would be forced to drink.
+Cup](https://en.wikipedia.org/wiki/Kings_(game)), but without the playing
+cards.  One of us got to be "question master."  We also all rotated names and
+if you messed it up you would be forced to drink.
 
 Bach started us off with a riddle game.  He asked "a man is found dead in
-water, how did he die?"  After that riddle we did two more.  Bach was extremely
+water, how did he die?"  After that riddle we did two more - Bach was extremely
 into the game.  When the waitress approached to ask if we wanted more drinks,
-Bach was quite rude to her and just said "no."  Apparently he was deep in
+Bach was quite rude to her and just said "no."  Apparently, he was deep in
 thought about the riddle and didn't realize what happened.  Luckily everyone
-else in the group appologized to the waitress and she didn't seem to mind.
+else in the group apologized to the waitress and she didn't seem to mind.
 
 ---
 
-- The wieners circle 
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2618.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0594.jpg' %})
-- Chocolate shakes
+The final stop of the night was [The Wieners
+Circle](https://en.wikipedia.org/wiki/The_Wieners_Circle).  
+
+![The Winers Circle]({% include smart-url url='/assets/img/may25/kenny/IMG_2618.jpg' %})
+
+The four meat eaters ordered Chicago Dogs.  It seemed like the chocolate
+milkshake was a popular order too, but we didn't get one.
+
+![Chicago Dogs]({% include smart-url url='/assets/img/may25/george/IMG_0594.jpg' %})
+
+Ramya walked across the street to 7-11 and was able to find a band aid.
 
 ---
 
-- Got bandaid
-- More rage cage 
-
-
----
-
+At home we played more rage cage then watched some more Friends.
