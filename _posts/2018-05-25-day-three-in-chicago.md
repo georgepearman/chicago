@@ -8,7 +8,7 @@ title: Day Three in Chicago
 # (Optional) Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  We see the bean
+  We see the bean, ride a bike, and do some riddles
 
 # (Optional) Link to an image that represents your blog post.
 # The aspect ratio should be ~16:9.
@@ -107,7 +107,7 @@ There was also a nice garden nearby.
 
 ---
 
-To keep Bach walking early, we had promised to visit the [Nutella
+To keep Bach walking earlier, we had promised to visit the [Nutella
 Cafe](https://www.yelp.com/biz/nutella-cafe-chicago-3).  Most of us ordered
 fruit and Nutella crepes while there.  Mine had strawberries in it.
 
@@ -174,7 +174,10 @@ he gave us a free single bike during that time that we would be renting the
 shift.
 
 ![Us on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2496.jpg' %})
+![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2497.jpg' %})
+![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2502.jpg' %})
 ![Selfie on the bike]({% include smart-url url='/assets/img/may25/george/IMG_0565.jpg' %})
+![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2523.jpg' %})
 
 I got the drive the bike!  My friends were not too happy when I started filming
 while steering.
@@ -187,9 +190,11 @@ We rode past this spot, which turns out to be the location where Paul proposed
 to Britta!
 
 ![Paul's proposal spot]({% include smart-url url='/assets/img/may25/george/IMG_0568.jpg' %})
+![Riding past Paul's proposal spot]({% include smart-url url='/assets/img/may25/kenny/IMG_2508.jpg' %})
 
 The view was very nice when riding by the lake.
 
+![A great view]({% include smart-url url='/assets/img/may25/kenny/IMG_2507.jpg' %})
 ![Selfie with the lake]({% include smart-url url='/assets/img/may25/george/IMG_0569.jpg' %})
 
 Later it was my turn on the single bike.
@@ -215,20 +220,21 @@ while the rest had a photo shoot.
 ![View where we stopped]({% include smart-url url='/assets/img/may25/george/IMG_0584.jpg' %})
 
 
-
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2497.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2502.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2507.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2508.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2523.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2531.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2534.jpg' %})
 
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2537.jpg' %})
+
+On our way back we saw [Buckingham
+Fountain](https://en.wikipedia.org/wiki/Buckingham_Fountain) (no queen in sight
+though).
+
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2556.jpg' %})
+
+One last photo on our bike before we had to give it back.
+
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2616.jpg' %})
 
-- Bike ride 
 - Ramya got butt hurt
 - Dogs 
 
@@ -245,17 +251,36 @@ while the rest had a photo shoot.
 ![test]({% include smart-url url='/assets/img/may25/george/IMG_0592.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/george/IMG_0593.jpg' %})
 
-
 ---
 
-- Saw fountain 
+After dinner we headed back to the Airbnb for an hour to shower and change.
+The next destination was a speakeasy called [The Violet
+Hour](https://www.yelp.com/biz/the-violet-hour-chicago) and we wanted to look
+fresh.
 
+While waiting in line for the bar, we strange shirtless man approached us.  He
+was doing "pushups" every 5 minutes or so.  When he approached our group he was
+singing some song he made up about an "asian man."  It was unclear whether he
+was talking to Bach, Kenny, or Scott.
 
-- Went home to change
-- Speakeasy violet hour 
-- Guy on street
-- Riddles 3. Bach was mean to waitress
-- King’s cup without the cards 
+He moved on to interrupt the next group in line instead and sang to someone he
+called "the girl with the nice butt."  Once he left we became friends with
+everyone in line when we talked about how strange that guy was.
+
+In the bar there are strict house rules.  One of them is no cell phones out, so
+we don't have any pictures inside.
+
+We passed the time playing [King's
+Cup](https://en.wikipedia.org/wiki/Kings_(game)) without the playing cards.
+One of us got to be "question master."  We also all rotated names and if you
+messed it up you would be forced to drink.
+
+Bach started us off with a riddle game.  He asked "a man is found dead in
+water, how did he die?"  After that riddle we did two more.  Bach was extremely
+into the game.  When the waitress approached to ask if we wanted more drinks,
+Bach was quite rude to her and just said "no."  Apparently he was deep in
+thought about the riddle and didn't realize what happened.  Luckily everyone
+else in the group appologized to the waitress and she didn't seem to mind.
 
 ---
 
