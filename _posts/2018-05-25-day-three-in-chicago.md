@@ -43,82 +43,179 @@ We walked to Southport train station and took a train into the City.
 Our first destination was the [Cloud
 Gate](https://en.wikipedia.org/wiki/Cloud_Gate) ("bean").
 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0529.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0531.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0532.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0533.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0534.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0537.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/ramya/20180525_145156.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/ramya/20180525_145217.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/ramya/20180525_145247.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2463.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2464.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2465.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2468.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2469.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2473.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2475.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2478.jpg' %})
+![Bean Panorama]({% include smart-url url='/assets/img/may25/george/IMG_0529.jpg' %})
+![George Bach Kenny Reflection on Bean]({% include smart-url url='/assets/img/may25/george/IMG_0531.jpg' %})
+![Another bean picture]({% include smart-url url='/assets/img/may25/george/IMG_0534.jpg' %})
+![Yet another bean angle]({% include smart-url url='/assets/img/may25/kenny/IMG_2463.jpg' %})
+
+The bean reflected the buidlings around it.  It was also really cool to see the
+sky reflected in the bean.
+
+![Bean and the sky]({% include smart-url url='/assets/img/may25/george/IMG_0537.jpg' %})
+
+You can walk under the bean.  Its quite cool to look upwards when directly
+under it!
+
+![Under the bean looking up]({% include smart-url url='/assets/img/may25/george/IMG_0532.jpg' %})
+![Selfie under the bean]({% include smart-url url='/assets/img/may25/george/IMG_0533.jpg' %})
+
+![Ramya George Kenny Reflection on the Bean]({% include smart-url url='/assets/img/may25/ramya/20180525_145217.jpg' %})
+![George Crouching by the Bean]({% include smart-url url='/assets/img/may25/ramya/20180525_145247.jpg' %})
+![Scott Kenny Selfie with Bean]({% include smart-url url='/assets/img/may25/kenny/IMG_2464.jpg' %})
+
+Kenny asked someone for our photo with the bean.
+
+![Group and the Bean Attempt 1]({% include smart-url url='/assets/img/may25/kenny/IMG_2475.jpg' %})
+
+However, he was not very pleased that the photo did not include the entire
+bean.  So we walked around to the other side of the bean (to avoid our
+photographer).  Kenny asked a couple if they'd like a photo.  As he took it he
+said, "I will try to get the entire bean in the shot."  After he took the photo
+he asked if they would take one of us (very sly of him).
+
+![Group and the Bean Attempt 2]({% include smart-url url='/assets/img/may25/kenny/IMG_2478.jpg' %})
 
 ---
 
 After that, we walked around a bit, trying to recreate the photo that Paul and
-Britta used on their wedding invitation.
+Britta used on their wedding invitation.  We knew we were in the right general
+area based on the buildings in the background of their invitation.  First, we
+walked on a bridge that goes over [Millenium
+Park](https://en.wikipedia.org/wiki/Millennium_Park) (park that contains the
+bean), thinking it might give us a good overall view of the park and help us
+find the spot.
 
 ![Bridge over the park]({% include smart-url url='/assets/img/may25/george/IMG_0538.jpg' %})
 
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2480.jpg' %})
+Bach had an injured leg, so he was often last as we walked.
+
+![Bach is last]({% include smart-url url='/assets/img/may25/kenny/IMG_2480.jpg' %})
+
+Turns out that bridge went nowhere, so we headed backwards on the bridge.
+
+![Walking backwards on the bride]({% include smart-url url='/assets/img/may25/kenny/IMG_2482.jpg' %})
+![Kenny takes a selfie as we walk back]({% include smart-url url='/assets/img/may25/kenny/IMG_2487.jpg' %})
+
+We ended up back near [Jay Pritzker
+Pavilion](https://en.wikipedia.org/wiki/Jay_Pritzker_Pavilion).
+
 ![George infront of Jay Pritzker Pavilion]({% include smart-url url='/assets/img/may25/george/IMG_0542.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2482.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2487.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2489.jpg' %})
+
+There was also a nice garden nearby.
+
+![Garden by the pavilion]({% include smart-url url='/assets/img/may25/kenny/IMG_2489.jpg' %})
 
 ---
 
-- Nutella Cafe
-- Stan’s donuts 
+To keep Bach walking early, we had promised to visit the [Nutella
+Cafe](https://www.yelp.com/biz/nutella-cafe-chicago-3).  Most of us ordered
+fruit and Nutella crepes while there.  Mine had strawberries in it.
 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0549.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0554.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0555.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0556.jpg' %})
+![Strawberry and Nutella Crepe]({% include smart-url url='/assets/img/may25/george/IMG_0554.jpg' %})
+
+Right next door was [Stan's
+Donuts](https://www.yelp.com/biz/stans-donuts-and-coffee-chicago-16).  So we
+sheepishly walked 1 business over to enter another dessert store (yes we bought
+another snack).
+
+![Stan's]({% include smart-url url='/assets/img/may25/george/IMG_0549.jpg' %})
+
+The ceiling in the store was covered in donuts!
+
+![Stan's Ceiling]({% include smart-url url='/assets/img/may25/george/IMG_0556.jpg' %})
+
+They had about 8 cold brews on tap.  Bach, Ramya, and I ordered frappes
+instead, however, and found them extremely sweet - so sweet that we couldn't
+drink very much of them.
+
+![Cold brew on tap]({% include smart-url url='/assets/img/may25/george/IMG_0555.jpg' %})
 
 ---
 
-- Took our drinks to find bikes 
-- Gave up on finding the bike 
+We took our drinks to go and wandered north towards the riverwalk, hoping to
+find bikes.  All around this area you can see [Trump
+Tower](https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago)).
+It's not a bad looking building in my opinion.
 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0557.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0558.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0559.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0560.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0562.jpg' %})
+![Trump tower]({% include smart-url url='/assets/img/may25/george/IMG_0558.jpg' %})
+
+Along the riverwalk I saw a sign for big gears, but no one else was interested
+in seeing them.
+
+![Big gears]({% include smart-url url='/assets/img/may25/george/IMG_0557.jpg' %})
+
+The riverwalk was very active with people walking and enjoying the sun.
+
+![Scott and Ramya Walking]({% include smart-url url='/assets/img/may25/george/IMG_0559.jpg' %})
+
+After 10 minutes of walking along the river and no bikes in sight, we went to
+a kayak shop and asked the salesperson where the nearest bikes were, and the
+man said there weren't any bike rental shops along the river.
+
+Bach was already sitting down at this point (probably too much walking for him)
+and the rest of us joined him.  We sat and looked at buildings and wondered how
+much rent might be in Chicago.  Turns out it's cheaper than the Bay Area!
+
+![Sitting by the river panorama]({% include smart-url url='/assets/img/may25/george/IMG_0560.jpg' %})
+
+We could see the end of the river where it meets [Lake
+Michigan](https://en.wikipedia.org/wiki/Lake_Michigan) and saw [Navy
+Pier](https://en.wikipedia.org/wiki/Navy_Pier) in the distance.  It looked fun,
+so we headed in that direction.
+
+![Navy Pier]({% include smart-url url='/assets/img/may25/george/IMG_0562.jpg' %})
 
 ---
 
-- Found the bike 
-- Bike ride 
-- Ramya got butt hurt
-- Dogs 
+As we approached the pier, we found a bike rental place!  We wanted to ride
+with 5 people on a 4 person bike, but the saleman would not let us.  Instead,
+he gave us a free single bike during that time that we would be renting the
+4 person bike.  We took turns on the single person bike - Kenny took the first
+shift.
 
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0565.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0568.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0569.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0571.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0572.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0573.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0575.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0576.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0580.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0582.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0583.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0584.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0585.jpg' %})
-![test]({% include smart-url url='/assets/img/may25/george/IMG_0586.jpg' %})
+![Us on the quad bike]({% include smart-url url='/assets/img/may25/kenny/IMG_2496.jpg' %})
+![Selfie on the bike]({% include smart-url url='/assets/img/may25/george/IMG_0565.jpg' %})
 
-![movie]({% include smart-url url='/assets/img/may25/george/IMG_0567.m4v' %})
-![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2496.jpg' %})
+I got the drive the bike!  My friends were not too happy when I started filming
+while steering.
+
+<video style="max-width: 100%" controls loop autoplay muted>
+  <source src="{% include smart-url url='/assets/img/may25/george/IMG_0567.mp4' %}">
+</video>
+
+We rode past this spot, which turns out to be the location where Paul proposed
+to Britta!
+
+![Paul's proposal spot]({% include smart-url url='/assets/img/may25/george/IMG_0568.jpg' %})
+
+The view was very nice when riding by the lake.
+
+![Selfie with the lake]({% include smart-url url='/assets/img/may25/george/IMG_0569.jpg' %})
+
+Later it was my turn on the single bike.
+
+![Crossing the street]({% include smart-url url='/assets/img/may25/george/IMG_0572.jpg' %})
+![Going over a bump]({% include smart-url url='/assets/img/may25/george/IMG_0573.jpg' %})
+
+Bach was not pedaling the whole time and got a free ride.  
+
+![Bach relaxing on the bike]({% include smart-url url='/assets/img/may25/george/IMG_0575.jpg' %})
+
+It was really easy to get ahead of the quad bike.  That thing is very heavy,
+especially with the Bach dead weight.
+
+![Quad bike from a distance]({% include smart-url url='/assets/img/may25/george/IMG_0576.jpg' %})
+![Quad bike a little closer]({% include smart-url url='/assets/img/may25/george/IMG_0580.jpg' %})
+![Quad bike about to pass me]({% include smart-url url='/assets/img/may25/george/IMG_0582.jpg' %})
+![Quad bike passing me]({% include smart-url url='/assets/img/may25/george/IMG_0583.jpg' %})
+
+Along the bike ride we saw a hot dog stand.  I went to buy two dogs to share
+while the rest had a photo shoot.
+
+![View where we stopped]({% include smart-url url='/assets/img/may25/george/IMG_0584.jpg' %})
+
+
+
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2497.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2502.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2507.jpg' %})
@@ -130,6 +227,10 @@ Britta used on their wedding invitation.
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2537.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2556.jpg' %})
 ![test]({% include smart-url url='/assets/img/may25/kenny/IMG_2616.jpg' %})
+
+- Bike ride 
+- Ramya got butt hurt
+- Dogs 
 
 ---
 
