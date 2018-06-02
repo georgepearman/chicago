@@ -28,6 +28,18 @@ tags: []
 # check out `_featured_categories` and `_featured_tags` respectively.
 ---
 
+![]({% include smart-url url='/assets/img/may28/george/IMG_0665.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0666.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0667.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0668.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0670.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0671.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0673.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0676.jpg' %})
+![]({% include smart-url url='/assets/img/may28/george/IMG_0677.jpg' %})
+![]({% include smart-url url='/assets/img/may28/kenny/IMG_2691.jpg' %})
+![]({% include smart-url url='/assets/img/may28/kenny/IMG_2693.jpg' %})
+
 - Bought souvenirs 
 - Goose island brewery
 - Pbrs outside
