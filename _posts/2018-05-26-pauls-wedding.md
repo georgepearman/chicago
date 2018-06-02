@@ -28,35 +28,55 @@ tags: []
 # check out `_featured_categories` and `_featured_tags` respectively.
 ---
 
-![]({% include smart-url url='/assets/img/may26/george/IMG_0597.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0598.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0601.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0602.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0603.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0604.m4v' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0606.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0608.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0609.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0611.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0614.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0615.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0616.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0618.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0619.jpg' %})
-![]({% include smart-url url='/assets/img/may26/george/IMG_0621.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2622.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2624.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2626.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2641.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2644.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2661.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2667.jpg' %})
-![]({% include smart-url url='/assets/img/may26/kenny/IMG_2671.jpg' %})
-![]({% include smart-url url='/assets/img/may26/ramya/20180526_180709.jpg' %})
-![]({% include smart-url url='/assets/img/may26/ramya/20180526_180734.jpg' %})
-![]({% include smart-url url='/assets/img/may26/ramya/20180526_180948.jpg' %})
-![]({% include smart-url url='/assets/img/may26/ramya/20180526_212515.jpg' %})
-![]({% include smart-url url='/assets/img/may26/ramya/20180526_212518.jpg' %})
+- Pizza!
+
+![Pizza Aerial]({% include smart-url url='/assets/img/may26/george/IMG_0597.jpg' %})
+![Another Pizza Aerial]({% include smart-url url='/assets/img/may26/george/IMG_0598.jpg' %})
+
+---
+
+![Me dressed up]({% include smart-url url='/assets/img/may26/kenny/IMG_2622.jpg' %})
+![Boba at the wedding]({% include smart-url url='/assets/img/may26/george/IMG_0601.jpg' %})
+![Bridge by the wedding location]({% include smart-url url='/assets/img/may26/george/IMG_0602.jpg' %})
+![Scott, Ramya, Bach, and Kenny at the wedding]({% include smart-url url='/assets/img/may26/george/IMG_0603.jpg' %})
+
+---
+
+![Paul walking in]({% include smart-url url='/assets/img/may26/ramya/20180526_180709.jpg' %})
+![Paul walking in movie]({% include smart-url url='/assets/img/may26/george/IMG_0604.m4v' %})
+![Paul ready to get married]({% include smart-url url='/assets/img/may26/ramya/20180526_180734.jpg' %})
+![Wedding ceremony]({% include smart-url url='/assets/img/may26/ramya/20180526_180948.jpg' %})
+
+---
+
+![Butterfly]({% include smart-url url='/assets/img/may26/kenny/IMG_2624.jpg' %})
+![Cocoons]({% include smart-url url='/assets/img/may26/george/IMG_0606.jpg' %})
+
+---
+
+![Bride and groom photoshoot]({% include smart-url url='/assets/img/may26/george/IMG_0608.jpg' %})
+
+---
+
+![Our table at the wedding]({% include smart-url url='/assets/img/may26/kenny/IMG_2626.jpg' %})
+![I match the wedding party]({% include smart-url url='/assets/img/may26/george/IMG_0609.jpg' %})
+![Cutting the cake]({% include smart-url url='/assets/img/may26/george/IMG_0611.jpg' %})
+![Salad]({% include smart-url url='/assets/img/may26/george/IMG_0614.jpg' %})
+![Salmon dish]({% include smart-url url='/assets/img/may26/george/IMG_0615.jpg' %})
+![Pork dish]({% include smart-url url='/assets/img/may26/george/IMG_0616.jpg' %})
+![Beet Dish]({% include smart-url url='/assets/img/may26/george/IMG_0618.jpg' %})
+![Dessert]({% include smart-url url='/assets/img/may26/george/IMG_0619.jpg' %})
+
+---
+
+![Selfie with Paul]({% include smart-url url='/assets/img/may26/george/IMG_0621.jpg' %})
+![Dancing at the wedding]({% include smart-url url='/assets/img/may26/kenny/IMG_2641.jpg' %})
+![Sang and Gloria]({% include smart-url url='/assets/img/may26/kenny/IMG_2644.jpg' %})
+![Paul and Britta Dancing]({% include smart-url url='/assets/img/may26/kenny/IMG_2661.jpg' %})
+![Group hug]({% include smart-url url='/assets/img/may26/kenny/IMG_2667.jpg' %})
+![Paul and Britta]({% include smart-url url='/assets/img/may26/kenny/IMG_2671.jpg' %})
+![Us with the bride and groom]({% include smart-url url='/assets/img/may26/ramya/20180526_212515.jpg' %})
+![Us with the bride and groom]({% include smart-url url='/assets/img/may26/ramya/20180526_212518.jpg' %})
 
 - More friends
 - Art of pizza deep dish 
