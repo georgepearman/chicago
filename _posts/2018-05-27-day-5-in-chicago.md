@@ -28,6 +28,34 @@ tags: []
 # check out `_featured_categories` and `_featured_tags` respectively.
 ---
 
+![]({% include smart-url url='/assets/img/may27/george/IMG_0627.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0628.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0629.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0631.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0632.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0633.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0634.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0635.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0637.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0638.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0640.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0641.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0646.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0651.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0652.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0653.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0655.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0656.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0657.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0658.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0660.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0663.jpg' %})
+![]({% include smart-url url='/assets/img/may27/george/IMG_0664.jpg' %})
+![]({% include smart-url url='/assets/img/may27/kenny/IMG_2683.jpg' %})
+![]({% include smart-url url='/assets/img/may27/kenny/IMG_2687.jpg' %})
+![]({% include smart-url url='/assets/img/may27/kenny/IMG_2688.jpg' %})
+![]({% include smart-url url='/assets/img/may27/kenny/IMG_2690.MOV' %})
+
 - Georgian food
 - Jenis
 - Wrigley field
